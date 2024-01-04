@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WordFinderConsole"
   ],
-  "SelectedNode": "\\C:\\Users\\Freck\\Source\\Repos\\word-finder",
+  "SelectedNode": "\\WordFinderConsole\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

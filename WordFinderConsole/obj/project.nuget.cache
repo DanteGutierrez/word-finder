@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e04ik48eMMwIzOVo1kFl2fm/tfYFCNbMKR7V6dJKm2um9acHozrxUWgszZj8NAouZaKuDnxRhpbSJEEIsFl2AQ==",
+  "dgSpecHash": "bPp3++CCfu8iQVmqWE7tb8EpSFQCe3QVbNX3UORlqnMyUcdnkp6yNaYD3AOyqu8lIx6ZAABJBQgJpG/0Ji5JxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Freck\\Source\\Repos\\word-finder\\WordFinderConsole\\WordFinderConsole.csproj",
+  "projectFilePath": "C:\\Users\\Freck\\source\\repos\\word-finder\\WordFinderConsole\\WordFinderConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

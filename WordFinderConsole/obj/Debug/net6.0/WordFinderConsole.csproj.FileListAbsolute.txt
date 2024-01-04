@@ -1,0 +1,14 @@
+C:\Users\Freck\Source\Repos\word-finder\WordFinderConsole\obj\Debug\net6.0\WordFinderConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freck\Source\Repos\word-finder\WordFinderConsole\obj\Debug\net6.0\WordFinderConsole.AssemblyInfoInputs.cache
+C:\Users\Freck\Source\Repos\word-finder\WordFinderConsole\obj\Debug\net6.0\WordFinderConsole.AssemblyInfo.cs
+C:\Users\Freck\Source\Repos\word-finder\WordFinderConsole\obj\Debug\net6.0\WordFinderConsole.csproj.CoreCompileInputs.cache
+C:\Users\Freck\source\repos\word-finder\WordFinderConsole\bin\Debug\net6.0\WordFinderConsole.exe
+C:\Users\Freck\source\repos\word-finder\WordFinderConsole\bin\Debug\net6.0\WordFinderConsole.deps.json
+C:\Users\Freck\source\repos\word-finder\WordFinderConsole\bin\Debug\net6.0\WordFinderConsole.runtimeconfig.json
+C:\Users\Freck\source\repos\word-finder\WordFinderConsole\bin\Debug\net6.0\WordFinderConsole.dll
+C:\Users\Freck\source\repos\word-finder\WordFinderConsole\bin\Debug\net6.0\WordFinderConsole.pdb
+C:\Users\Freck\source\repos\word-finder\WordFinderConsole\obj\Debug\net6.0\WordFinderConsole.dll
+C:\Users\Freck\source\repos\word-finder\WordFinderConsole\obj\Debug\net6.0\refint\WordFinderConsole.dll
+C:\Users\Freck\source\repos\word-finder\WordFinderConsole\obj\Debug\net6.0\WordFinderConsole.pdb
+C:\Users\Freck\source\repos\word-finder\WordFinderConsole\obj\Debug\net6.0\WordFinderConsole.genruntimeconfig.cache
+C:\Users\Freck\source\repos\word-finder\WordFinderConsole\obj\Debug\net6.0\ref\WordFinderConsole.dll
